@@ -62,8 +62,10 @@ We compute Mean Square Error for two model checkpoints, after completing epoch 3
 
 * Paper referenced: `Shang, Hongwei, et al. "Knowledge Distillation for Enhancing Walmart E-commerce Search Relevance Using Large Language Models." Companion Proceedings of the ACM on Web Conference 2025. 2025.`
 * Dataset Paper: `Reddy, Chandan K., et al. "Shopping queries dataset: A large-scale ESCI benchmark for improving product search." arXiv preprint arXiv:2206.06588 (2022).`
+* Llama 3: `Grattafiori, Aaron, et al. "The llama 3 herd of models." arXiv preprint arXiv:2407.21783 (2024).`
 * LoRA Paper: `Hu, Edward J., et al. "Lora: Low-rank adaptation of large language models." ICLR 1.2 (2022): 3.`
 * PEFT Paper: `Mangrulkar, S., et al. "State-of-the-art parameter-efficient fine-tuning methods." 2022,`
+* AdamW Optimiser Paper: `Ilya Loshchilov, Frank Hutter, "Decoupled Weight Decay Regularization", International Conference on Learning Representations (ICLR) 2019. https://arxiv.org/abs/1711.05101`
 * Hugging Face
 * Kaggle Dataset Link: https://www.kaggle.com/datasets/notsalmankhan/amazon-esci-shopping-queries
 
