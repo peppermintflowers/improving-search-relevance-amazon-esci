@@ -41,7 +41,7 @@ Teacher model training code is available in train_teacher.ipynb.
   * LoRA Dropout 0.05
 * Learning rate: 1e-5
 * Add score head MLP layer to compute logit score for relevance
-* Uses BCEWithLogitsLoss
+* Uses BCEWithLogitsLoss and AdamW optimiser
 * Train-test split % (85-15)
 * Model trained over 7 epochs, checkpointed and saved upon every 20% epoch completion
 ---
