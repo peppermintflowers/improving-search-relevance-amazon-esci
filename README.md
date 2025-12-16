@@ -60,7 +60,8 @@ We compute Mean Square Error for two model checkpoints, after completing epoch 3
 ## Acknowledgements and Citations
 
 * Paper referenced: `Shang, Hongwei, et al. "Knowledge Distillation for Enhancing Walmart E-commerce Search Relevance Using Large Language Models." Companion Proceedings of the ACM on Web Conference 2025. 2025.`
-* Dataset: `Reddy, Chandan K., et al. "Shopping queries dataset: A large-scale ESCI benchmark for improving product search." arXiv preprint arXiv:2206.06588 (2022).`
+* Dataset Paper: `Reddy, Chandan K., et al. "Shopping queries dataset: A large-scale ESCI benchmark for improving product search." arXiv preprint arXiv:2206.06588 (2022).`
 * Hugging Face
+* Kaggle Dataset Link: https://www.kaggle.com/datasets/notsalmankhan/amazon-esci-shopping-queries
 
 
