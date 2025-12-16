@@ -24,12 +24,13 @@ Steps for data pre-processing we carried out:
 6. Map labels (E,S,C,I) to soft targets for relevance (1,0.5,0,0) respectively
 
 Example of concatenated query and product details text:
-
-`Query: !awnmower tires without rims Product Title: (Set of 2) 15x6.00-6 Husqvarna/Poulan Tire Wheel Assy .75" Bearing Product Description: No fuss. Just take off your old assembly and replace with this. No need for tubes or tire shops. No messing around with mounting these yourself. Perfect replacement for your machine. Will make your machine look and feel new. **** .75 precision ball bearings ****. Product Bullet Point: Tire size:15x6.00-6 Ply: 4 Tubeless
+```
+Query: !awnmower tires without rims Product Title: (Set of 2) 15x6.00-6 Husqvarna/Poulan Tire Wheel Assy .75" Bearing Product Description: No fuss. Just take off your old assembly and replace with this. No need for tubes or tire shops. No messing around with mounting these yourself. Perfect replacement for your machine. Will make your machine look and feel new. **** .75 precision ball bearings ****. Product Bullet Point: Tire size:15x6.00-6 Ply: 4 Tubeless
 6x4.5 Wheel with 3/4" Precision bearings; Hub is 3" Long with .75" precision ball bearings. No grease required. Color: Husqvarna Silver
 Husqvarna wheel number: 532106732 replaces 106732x645, 106732x643, 106732x417, 532141446, 532138336, 5321383-36 532125102; Husqvarna tire number 5321122073
 ATW-001
-Tire OD: 14.96; Tire SW: 6.3; PSI: 30; Max Load: 570 lbs. Product Brand: Antego Tire & Wheel Product Color: Husqvarna Silver`
+Tire OD: 14.96; Tire SW: 6.3; PSI: 30; Max Load: 570 lbs. Product Brand: Antego Tire & Wheel Product Color: Husqvarna Silver
+```
 ---
 
 ## Teacher Model Fine-Tuning Details
