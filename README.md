@@ -44,6 +44,14 @@ Teacher model training code is available in train_teacher.ipynb.
 * Uses BCEWithLogitsLoss and AdamW optimiser
 * Train-test split % (85-15)
 * Model trained over 7 epochs, checkpointed and saved upon every 20% epoch completion
+
+### Train-Test dataset details
+
+| Dataset | % Data corresponding to Class 0 | % Data corresponding to Class 0.5 | % Data corresponding to Class 1 |
+|---------|---------------------------------|-----------------------------------|---------------------------------|
+| Train   | 19.42                           | 35.12                             | 45.45                           |
+| Test    | 20.56                           | 35.58                             | 43.85                           |
+
 ---
 
 ## Evaluation
